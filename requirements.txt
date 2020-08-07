@@ -1,6 +1,6 @@
 tensorflow
 numpy
-scipy
+scipy==1.0.1
 nltk
 pillow
 distance
