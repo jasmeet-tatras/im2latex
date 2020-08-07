@@ -87,3 +87,16 @@ python evaluate_img.py --results=results/full/
 ```
 python file.py --help
 ```
+
+# TO use on COlab
+```
+!pip3 install scipy==1.0.1
+!pip3 install tensorflow==1.15
+```
+```
+!make install-linux -C im2latex/
+```
+## to test pipeline
+```
+!make small -C im2latex
+```
